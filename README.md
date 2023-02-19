@@ -3,7 +3,7 @@
 
 This assignment aims to identify the best sampling technique for a highly imbalanced dataset by comparing the performance of seven different machine learning models.
 
-Dataset
+## Dataset
 
 The dataset used in this project is Credit Card Fraud Detection dataset, which is highly imbalanced, with the majority class accounting for 95% of the samples. To address this issue, the Synthetic Minority Over-sampling Technique (SMOTE) was used to generate synthetic samples for the minority class.
 
