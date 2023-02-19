@@ -7,7 +7,7 @@ Dataset
 
 The dataset used in this project is Credit Card Fraud Detection dataset, which is highly imbalanced, with the majority class accounting for 95% of the samples. To address this issue, the Synthetic Minority Over-sampling Technique (SMOTE) was used to generate synthetic samples for the minority class.
 
-##Sampling Techniques
+## Sampling Techniques
 
 Four different sampling techniques were used to generate samples from the imbalanced dataset:
 
@@ -26,7 +26,7 @@ Six different machine learning models were used to classify the samples:
 - Support Vector Machine
 - Gaussian Naive Bayes
 
-##Results
+## Results
 
 The performance of each model was evaluated using metrics such as accuracy, precision, recall, and F1-score. The Random Forest Classifier was found to be the best model with the highest accuracy.
 
@@ -41,6 +41,6 @@ The performance of each model was evaluated using metrics such as accuracy, prec
 | KNeighborsClassifier   | 0.74            | 0.74                | 0.74                | 0.75             |
 
 
-##Conclusion
+## Conclusion
 
 Based on the results, the use of SMOTE to balance the dataset, combined with the Random Forest Classifier, can improve the performance of machine learning models on imbalanced datasets. Further research can be conducted on other sampling techniques and machine learning models to achieve better results.
