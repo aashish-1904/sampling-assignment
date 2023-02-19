@@ -15,7 +15,9 @@ Four different sampling techniques were used to generate samples from the imbala
 - Stratified Sampling
 - Systematic Sampling
 - Cluster Sampling
-- Machine Learning Models
+
+
+## Machine Learning Models
 
 Six different machine learning models were used to classify the samples:
 
